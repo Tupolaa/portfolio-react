@@ -89,7 +89,7 @@
           {
             "title": "Oma portofolio",
             "description": "Dynaaminen verkkosivu itseni esittämiseksi, luotu käyttäen HTML, CSS, JS, REACT.",
-            "repository": "https://github.com/Tupolaa/Portofolio"
+            "repository": "https://github.com/Tupolaa/portfolio-react"
           },
           {
             "title": "Ohjemistotestaus",
@@ -202,13 +202,13 @@
         "items": [
           {
             "title": "My Portfolio",
-            "description": "A static website to showcase myself, built with HTML and CSS.",
-            "repository": "https://github.com/Tupolaa/Portofolio"
+            "description": "A dynamic website to showcase myself, built with HTML, CSS, JS, and REACT.",
+            "repository": "https://github.com/Tupolaa/portfolio-react"
           },
           {
-            "title": "Static Website",
-            "description": "A school project to create a website for a fictional client using HTML, CSS, and PHP.",
-            "repository": "https://github.com/Tupolaa/Team2_Projekti"
+            "title": "Software Testing",
+            "description": "Final course project during which we utilized Robot Framework and Python for software testing. We developed tests for a website and learned about software testing.",
+            "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti"
           },
           {
             "title": "LejosEV3",
