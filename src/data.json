@@ -135,15 +135,15 @@
         "imageAlt": "Profile Picture",
         "imageTitle": "Profile Picture",
         "title": "Who is Teemu?",
-        "content": "I am a software developer in my early twenties from Hämeenlinna, with a great passion for coding and software development! I am currently in my second year of studying Business Information Technology at HAMK. I am proactive and eager to develop functional and reliable solutions in the field of software development and programming. I am particularly interested in software testing and back-end development, as well as the challenges they present!"
+        "content": "I'm a software developer in my early twenties from Hämeenlinna, Finland, with a strong passion for coding and software development. I'm currently in my second year of studying Business Information Technology at Häme University of Applied Sciences (HAMK). I'm proactive and eager to create functional and reliable software solutions, with a particular interest in software testing and back-end development and the challenges they bring."
       },
       "background": {
         "infoTitle": "About Me",
-        "infoContent": "My interest in computers and their software began in the 9th grade when we had the opportunity to take an ICT course. The course introduced us to the basics of HTML and how websites work, as well as a general overview of Windows. I studied to become an IT specialist in vocational school - we built websites, worked on group projects, learned Unreal Engine, and assembled computers with the guidance of our teachers. I built my first personal computer with my father's help when I was 14 years old.",
+        "infoContent": "My interest in computers began back in 9th grade when I took an ICT course that introduced the basics of HTML and how websites work. I later studied to become an IT Support Specialist (Datanomi) in vocational school, where we built websites, worked on group projects, learned the basics of Unreal Engine, and assembled computers. I built my first PC at the age of 14 with help from my father — and I’ve been passionate about technology ever since.",
         "educationTitle": "Education",
-        "educationContent": "Since fall 2023, I have been studying Business Information Technology at Häme University of Applied Sciences (HAMK), specializing in programming, web development, and particularly back-end technologies. I have learned many new and useful skills. In many projects, I have used version control (Git) and Scrum, so I have become familiar with them.",
+        "educationContent": "Since autumn 2023, I've been studying Business Information Technology at HAMK. I’ve focused on programming, web development, and especially back-end technologies. Along the way, I’ve also gained practical experience with tools and practices such as version control (Git) and Scrum.",
         "skillsTitle": "My Skills",
-        "skillsContent": "I have acquired many different skills and programming languages alongside my studies. Here are a few of them:"
+        "skillsContent": "Through my studies and personal projects, I’ve developed skills in a variety of tools and programming languages. Here are some of the key ones:"
       },
       "skills": [
         {
