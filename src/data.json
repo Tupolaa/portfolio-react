@@ -1,0 +1,231 @@
+{
+    "fi": {
+      "metaDescription": "Tämä sivu on henkilökohtaiseksi portofolioksi",
+      "links": {
+        "github": "https://github.com/Tupolaa",
+        "linkedin": "https://www.linkedin.com/in/teemutupola/",
+        "portfolio": "https://teemutupola.netlify.app/"
+      },
+      "about": {
+        "image": "/Media/OmaKuva.jpg",
+        "imageAlt": "Kuva",
+        "imageTitle": "OmaKuva",
+        "title": "Kuka on Teemu?",
+        "content": "Olen reilu pari kymppinen ohjelmistokehittäjän alku Hämeenlinnasta. Minulla on iso kiinnostus koodaamiseen ja ohjelmistokehitykseen. Opiskelen toista vuotta tietojenkäsittelyä HAMK:issa. Olen oma-aloitteinen ja halukas kehittämään toimivia ja luotettavia ratkaisuja ohjelmistokehityksessä sekä erityisesti kiinnostunut ohjelmistotestauksesta ja back-end -haasteista."
+      },
+      "background": {
+        "infoTitle": "Taustatietoa",
+        "infoContent": "Kiinnostuin tietokoneista jo 9. luokalla, kun osallistuin TVT-kurssille. Kurssilla esiteltiin HTML:n perusasioita ja verkkosivujen toiminta. Opiskelin ammattikoulussa datanomiksi, missä teimme nettisivuja, ryhmätöitä, opettelimme Unreal Engineä ja kasasimme tietokoneita. Rakensin ensimmäisen tietokoneeni isäni avustuksella ollessani 14-vuotias.",
+        "educationTitle": "Koulutus",
+        "educationContent": "Syksystä 2023 asti opiskelin Hämeen ammattikoulussa tietojenkäsittelyä. Suuntauduin ohjelmointiin, web-kehitykseen ja erityisesti back-end-teknologioihin, oppien samalla monia hyödyllisiä taitoja kuten versionhallintaa (git) ja Scrum.",
+        "skillsTitle": "Taitoni",
+        "skillsContent": "Olen oppinut monia erilaisia taitoja ja ohjelmointikieliä opintojeni ohella. Tässä muutamia:"
+      },
+      "skills": [
+        {
+          "name": "Python",
+          "icon": "/Media/Python.png",
+          "alt": "Python icon"
+        },
+        {
+          "name": "Scrum perusteet",
+          "icon": "/Media/Scrum.png",
+          "alt": "Scrum icon"
+        },
+        {
+          "name": "Jira",
+          "icon": "/Media/Jira.png",
+          "alt": "Jira icon"
+        },
+        {
+          "name": "Confluence",
+          "icon": "/Media/Confluence.png",
+          "alt": "Confluence icon"
+        },
+        {
+          "name": "Robot Framework",
+          "icon": "/Media/RF.png",
+          "alt": "Robot Framework icon"
+        },
+        {
+          "name": "Windows käyttöjärjestelmän perusteet",
+          "icon": "/Media/Windows.png",
+          "alt": "Windows icon"
+        },
+        {
+          "name": "Java OOP",
+          "icon": "/Media/Java.png",
+          "alt": "Java icon"
+        },
+        {
+          "name": "MySQL",
+          "icon": "/Media/MySQL.png",
+          "alt": "MySQL icon"
+        },
+        {
+          "name": "Koneoppiminen (KNN, K-Means, SVM, Linear regression)",
+          "icon": "/Media/ML.png",
+          "alt": "Machine learning icon"
+        },
+        {
+          "name": "WordPress",
+          "icon": "/Media/WP.png",
+          "alt": "WordPress icon"
+        },
+        {
+          "name": "Datan analysointi Pythonilla",
+          "icon": "/Media/data.png",
+          "alt": "Data analysis icon"
+        },
+        {
+          "name": "GIT",
+          "icon": "/Media/GIT.png",
+          "alt": "GIT icon"
+        }
+      ],
+      "projects": {
+        "title": "Projektit",
+        "items": [
+          {
+            "title": "Oma portofolio",
+            "description": "Dynaaminen verkkosivu itseni esittämiseksi, luotu käyttäen HTML, CSS, JS, REACT.",
+            "repository": "https://github.com/Tupolaa/Portofolio"
+          },
+          {
+            "title": "Ohjemistotestaus",
+            "description": "Kurssin lopputyö, jonka aikana hyödynsimme Robot Frameworkia ja Pythonia ohjelmistotestauksessa. Teimme testejä nettisivulle ja opettelimme ohjelmistotestausta.",
+            "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti"
+          },
+          {
+            "title": "LejosEV3",
+            "description": "Kouluprojekti, jossa ohjelmoimme LejosEV3 lego robotin seuraamaan väriviivaa ja väistämään esteitä. Käytimme Javaa, REST, HTML:ää ja CSS:ää."
+          },
+          {
+            "title": "Automaatiorobotiikka",
+            "description": "Kouluprojekti, jossa käytimme UiPathia ja Robot Frameworkia automatisoimaan tiedon haku PDF-laskuilta.",
+            "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka"
+          }
+        ]
+      },
+      "footer": {
+        "year": "2025",
+        "name": "Teemu Tupola",
+        "email": "teemu.tupola@gmail.com"
+      }
+    },
+    "en": {
+      "metaDescription": "This site is my personal portfolio",
+      "links": {
+        "github": "https://github.com/Tupolaa",
+        "linkedin": "https://www.linkedin.com/in/teemutupola/",
+        "portfolio": "https://teemutupola.netlify.app/"
+      },
+      "about": {
+        "image": "/Media/OmaKuva.jpg",
+        "imageAlt": "Profile Picture",
+        "imageTitle": "Profile Picture",
+        "title": "Who is Teemu?",
+        "content": "I am a software developer in my early twenties from Hämeenlinna, with a great passion for coding and software development! I am currently in my second year of studying Business Information Technology at HAMK. I am proactive and eager to develop functional and reliable solutions in the field of software development and programming. I am particularly interested in software testing and back-end development, as well as the challenges they present!"
+      },
+      "background": {
+        "infoTitle": "About Me",
+        "infoContent": "My interest in computers and their software began in the 9th grade when we had the opportunity to take an ICT course. The course introduced us to the basics of HTML and how websites work, as well as a general overview of Windows. I studied to become an IT specialist in vocational school - we built websites, worked on group projects, learned Unreal Engine, and assembled computers with the guidance of our teachers. I built my first personal computer with my father's help when I was 14 years old.",
+        "educationTitle": "Education",
+        "educationContent": "Since fall 2023, I have been studying Business Information Technology at Häme University of Applied Sciences (HAMK), specializing in programming, web development, and particularly back-end technologies. I have learned many new and useful skills. In many projects, I have used version control (Git) and Scrum, so I have become familiar with them.",
+        "skillsTitle": "My Skills",
+        "skillsContent": "I have acquired many different skills and programming languages alongside my studies. Here are a few of them:"
+      },
+      "skills": [
+        {
+          "name": "Python",
+          "icon": "/Media/Python.png",
+          "alt": "Python icon"
+        },
+        {
+          "name": "Scrum Basics",
+          "icon": "/Media/Scrum.png",
+          "alt": "Scrum icon"
+        },
+        {
+          "name": "Jira",
+          "icon": "/Media/Jira.png",
+          "alt": "Jira icon"
+        },
+        {
+          "name": "Confluence",
+          "icon": "/Media/Confluence.png",
+          "alt": "Confluence icon"
+        },
+        {
+          "name": "Robot Framework",
+          "icon": "/Media/RF.png",
+          "alt": "Robot Framework icon"
+        },
+        {
+          "name": "Windows OS Basics",
+          "icon": "/Media/Windows.png",
+          "alt": "Windows icon"
+        },
+        {
+          "name": "Java OOP",
+          "icon": "/Media/Java.png",
+          "alt": "Java icon"
+        },
+        {
+          "name": "MySQL",
+          "icon": "/Media/MySQL.png",
+          "alt": "MySQL icon"
+        },
+        {
+          "name": "Machine Learning (KNN, K-Means, SVM, Linear Regression)",
+          "icon": "/Media/ML.png",
+          "alt": "Machine Learning icon"
+        },
+        {
+          "name": "WordPress",
+          "icon": "/Media/WP.png",
+          "alt": "WordPress icon"
+        },
+        {
+          "name": "Data Analysis with Python",
+          "icon": "/Media/data.png",
+          "alt": "Data Analysis icon"
+        },
+        {
+          "name": "GIT",
+          "icon": "/Media/GIT.png",
+          "alt": "GIT icon"
+        }
+      ],
+      "projects": {
+        "title": "Projects",
+        "items": [
+          {
+            "title": "My Portfolio",
+            "description": "A static website to showcase myself, built with HTML and CSS.",
+            "repository": "https://github.com/Tupolaa/Portofolio"
+          },
+          {
+            "title": "Static Website",
+            "description": "A school project to create a website for a fictional client using HTML, CSS, and PHP.",
+            "repository": "https://github.com/Tupolaa/Team2_Projekti"
+          },
+          {
+            "title": "LejosEV3",
+            "description": "A school project where we programmed a LejosEV3 Lego robot to follow a colored line and avoid obstacles. We used Java, REST, HTML, and CSS for the project."
+          },
+          {
+            "title": "Automation Robotics",
+            "description": "A school project using UiPath and Robot Framework to automate data extraction from PDF invoices into a database.",
+            "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka"
+          }
+        ]
+      },
+      "footer": {
+        "year": "2025",
+        "name": "Teemu Tupola",
+        "email": "teemu.tupola@gmail.com"
+      }
+    }
+  }
+  

@@ -1,38 +1,199 @@
-.App {
+body {
+  background-color: #222222;
+  color: #f5f5f5;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+  margin: 0;
+  padding: 0;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main-container {
+  max-width: 1500px;
+  margin: 0 auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+header, nav, footer {
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: #005c7e;
+  border-radius: 15px; 
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 1;
+  z-index: 1000; 
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 0;
+  margin-bottom: 30px;
+
+}
+.languageButton{
+  background-color: #141729;
+
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  list-style: none;
+  
+}
+
+nav ul li {
+  margin: 0 20px;
+}
+
+nav ul li a {
+  color: #f5f5f5;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+section {
+  padding: 50px 20px;
+  text-align: center;
+  border-radius: 20px; 
+  
+}
+
+.AboutMe {
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  gap: 30px;
+  max-width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#photo {
+  max-width: 250px;
+  height: auto;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-right: 100px;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 600px;
+  
+}
+
+.AboutMe h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.Backround {
+  background: #141729;
+  padding: 40px;
+  color: #f5f5f5;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px; 
+  margin-top: 20px;
+}
+.project-box {
+  background-color: #333;
+  color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+}
+.project-box p{
+  font-size: 15px;
+}
+.project-box:hover {
+  transform: translateY(-10px);
+}
+.project-box a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #1e90ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-box a:hover {
+  text-decoration: underline;
+}
+
+.TaidotLista {
+  list-style-type: disc;
+  text-align: left;
+  padding-left: 20px;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.TaidotLista li {
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.skill-icon {
+  width: 20px;
+  height: auto;
+  margin-left: 10px;
+}
+
+.TaidotListaContainer {
+  background-color: #222222;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+}
+
+footer {
+
+  padding: 20px;
+  text-align: center;
   color: white;
+  max-width: 1500px;
+  border-top: 2px solid #555;
+}
+.lang-switch {
+  position: absolute;
+  top: 10px;
+  right: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.lang-btn {
+  background-color: #333;
+  color: white;
+  text-decoration: none;
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 5px;
+  display: inline-block;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.lang-btn:hover {
+  background-color: #555;
 }
