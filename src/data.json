@@ -103,7 +103,7 @@
           },
           {
             "title": "Ohjemistotestaus",
-            "description": "Kurssin lopputyö, jonka aikana hyödynsimme Robot Frameworkia ja Pythonia ohjelmistotestauksessa. Teimme testejä nettisivulle ja opettelimme ohjelmistotestausta.",
+            "description": "Kurssin lopputyö, jonka aikana hyödynsimme Robot Frameworkia ohjelmistotestauksessa. Teimme testejä nettisivulle ja opettelimme ohjelmistotestausta.",
             "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti"
           },
           {
@@ -227,7 +227,7 @@
           },
           {
             "title": "Software Testing",
-            "description": "Final course project during which we utilized Robot Framework and Python for software testing. We developed tests for a website and learned about software testing.",
+            "description": "Final course project during which we utilized Robot Framewor for software testing. We developed tests for a website and learned about software testing.",
             "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti"
           },
           {
