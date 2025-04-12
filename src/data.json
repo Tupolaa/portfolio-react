@@ -81,7 +81,17 @@
           "name": "GIT",
           "icon": "/Media/GIT.png",
           "alt": "GIT icon"
-        }
+        },
+        {
+          "name": "JavaScript",
+          "icon": "/Media/JS.png",
+          "alt": "JS icon"
+        },
+        {
+            "name": "REACT",
+            "icon": "/Media/REACT.png",
+            "alt": "REACT icon"
+          }
       ],
       "projects": {
         "title": "Projektit",
@@ -195,6 +205,16 @@
           "name": "GIT",
           "icon": "/Media/GIT.png",
           "alt": "GIT icon"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "/Media/JS.png",
+          "alt": "JS icon"
+        },
+        {
+          "name": "REACT",
+          "icon": "/Media/REACT.png",
+          "alt": "REACT icon"
         }
       ],
       "projects": {
