@@ -197,3 +197,7 @@ footer {
 .lang-btn:hover {
   background-color: #555;
 }
+.App {
+  position: relative;
+  z-index: 1; /* ensures content sits above the background canvas */
+}

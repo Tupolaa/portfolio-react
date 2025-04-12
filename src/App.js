@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import data from "./data.json";
+import FloatingBackground from "./Backround";
 import "./App.css";
 
 function App() {
@@ -11,6 +12,9 @@ function App() {
 
   return (
     <div className="main-container">
+      {/* Place the background component first so that it is rendered behind the rest */}
+      <FloatingBackground />
+      
       <Header links={content.links} setLanguage={setLanguage} />
       <AboutMe about={content.about} />
       <Background background={content.background} skills={content.skills} />
@@ -43,7 +47,6 @@ function Header({ links, setLanguage }) {
         </ul>
       </nav>
       <div className="lang-switch">
-        {/* Buttons call setLanguage to update the language state */}
         <button onClick={() => setLanguage("en")} className="lang-btn">
           ENG
         </button>
@@ -77,13 +80,10 @@ function Background({ background, skills }) {
     <section className="Backround" id="background">
       <h2 className="BrHeader">{background.infoTitle}</h2>
       <p>{background.infoContent}</p>
-
       <h2 className="BrHeader">{background.educationTitle}</h2>
       <p>{background.educationContent}</p>
-
       <h2 className="BrHeader">{background.skillsTitle}</h2>
       <p>{background.skillsContent}</p>
-
       <div className="TaidotListaContainer">
         <ul className="TaidotLista">
           {skills.map((skill, index) => (
