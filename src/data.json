@@ -112,7 +112,7 @@
           },
           {
             "title": "Automaatiorobotiikka",
-            "description": "Kouluprojekti, jossa käytimme UiPathia ja Robot Frameworkia automatisoimaan tiedon haku PDF-laskuilta.",
+            "description": "Kouluprojekti, jossa käytimme UiPathia, Robot Frameworkia ja Pythonia automatisoimaan tiedon haku PDF-laskuilta.",
             "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka"
           }
         ]
@@ -236,7 +236,7 @@
           },
           {
             "title": "Automation Robotics",
-            "description": "A school project using UiPath and Robot Framework to automate data extraction from PDF invoices into a database.",
+            "description": "A school project using UiPath, Robot Framework and Python to automate data extraction from PDF invoices into a database.",
             "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka"
           }
         ]
