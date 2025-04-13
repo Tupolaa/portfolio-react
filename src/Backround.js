@@ -20,7 +20,7 @@ function PolygonBackground() {
     canvas.height = height;
 
     // Increase the number of moving points
-    const numPoints = 100; 
+    const numPoints = 50; 
     // Distance threshold for connecting lines between points
     const maxDistance = 150;
 
