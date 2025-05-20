@@ -125,7 +125,7 @@
         "title": "Projektit",
         "items": [
           {
-            "title": "Oma portofolio",
+            "title": "Oma portfolio",
             "description": "Dynaaminen verkkosivu itseni esittämiseksi, luotu käyttäen HTML, CSS, JS, REACT.",
             "repository": "https://github.com/Tupolaa/portfolio-react"
           },
