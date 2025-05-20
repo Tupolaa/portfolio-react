@@ -88,6 +88,16 @@
           "alt": "JS icon"
         },
         {
+          "name": "HTML",
+          "icon": "/Media/HTML.png",
+          "alt": "HTML icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "/Media/CSS.png",
+          "alt": "CSS icon"
+        },
+        {
             "name": "REACT",
             "icon": "/Media/REACT.png",
             "alt": "REACT icon"
@@ -102,6 +112,7 @@
           "icon": "/Media/Mongo.png",
           "alt": "Mongo icon"
         }
+    
         
       ],
       "projects": {
@@ -233,6 +244,16 @@
           "name": "JavaScript",
           "icon": "/Media/JS.png",
           "alt": "JS icon"
+        },
+        {
+          "name": "HTML",
+          "icon": "/Media/HTML.png",
+          "alt": "HTML icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "/Media/CSS.png",
+          "alt": "CSS icon"
         },
         {
           "name": "REACT",
