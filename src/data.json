@@ -17,7 +17,7 @@
         "infoTitle": "Taustatietoa",
         "infoContent": "Kiinnostuin tietokoneista jo 9. luokalla, kun osallistuin TVT-kurssille. Kurssilla esiteltiin HTML:n perusasioita ja verkkosivujen toimintaa. Opiskelin ammattikoulussa datanomiksi, tällöin teimme nettisivuja, ryhmätöitä, opettelimme Unreal Engineä ja kasasimme tietokoneita. Rakensin ensimmäisen tietokoneeni isäni avustuksella ollessani 14-vuotias.",
         "educationTitle": "Koulutus",
-        "educationContent": "Syksystä 2023 asti olen opiskellut Hämeen ammattikoulussa tietojenkäsittelyä. Suuntaudun ohjelmointiin, web-kehitykseen ja erityisesti back-end-teknologioihin, oppien samalla monia hyödyllisiä taitoja kuten versionhallintaa (git) ja Scrum.",
+        "educationContent": "Syksystä 2023 asti olen opiskellut Hämeen ammattikoulussa tietojenkäsittelyä. Suuntaudun ohjelmointiin, web-kehitykseen ja erityisesti back-end-teknologioihin, oppien samalla monia hyödyllisiä taitoja kuten version ja projektien hallintaa (git) ja Scrum.",
         "skillsTitle": "Taitoni",
         "skillsContent": "Olen oppinut monia erilaisia taitoja ja ohjelmointikieliä opintojeni ohella. Tässä muutamia:"
       },
@@ -175,7 +175,7 @@
         "infoTitle": "About Me",
         "infoContent": "My interest in computers began back in 9th grade when I took an ICT course that introduced the basics of HTML and how websites work. I later studied to become an IT Support Specialist (Datanomi) in vocational school, where we built websites, worked on group projects, learned the basics of Unreal Engine, and assembled computers. I built my first PC at the age of 14 with help from my father — and I’ve been passionate about technology ever since.",
         "educationTitle": "Education",
-        "educationContent": "Since autumn 2023, I've been studying Business Information Technology at HAMK. I’ve focused on programming, web development, and especially back-end technologies. Along the way, I’ve also gained practical experience with tools and practices such as version control (Git) and Scrum.",
+        "educationContent": "Since autumn 2023, I've been studying Business Information Technology at HAMK. I’ve focused on programming, web development, and especially back-end technologies. Along the way, I’ve also gained practical experience with tools and practices such as version control and project management (Git) and Scrum.",
         "skillsTitle": "My Skills",
         "skillsContent": "Through my studies and personal projects, I’ve developed skills in a variety of tools and programming languages. Here are some of the key ones:"
       },
