@@ -73,6 +73,12 @@
           "alt": "WordPress icon"
         },
         {
+          "name": "REST API",
+          "icon": "/Media/REST.png",
+          "alt": "REST API icon"
+
+        },
+        {
           "name": "Datan analysointi Pythonilla",
           "icon": "/Media/data.png",
           "alt": "Data analysis icon"
@@ -229,6 +235,11 @@
           "name": "WordPress",
           "icon": "/Media/WP.png",
           "alt": "WordPress icon"
+        },
+        {
+          "name": "REST API",
+          "icon": "/Media/REST.png",
+          "alt": "REST API icon"
         },
         {
           "name": "Data Analysis with Python",
