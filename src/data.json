@@ -91,7 +91,18 @@
             "name": "REACT",
             "icon": "/Media/REACT.png",
             "alt": "REACT icon"
-          }
+        },
+        {
+          "name": "Handlebars",
+          "icon": "/Media/HBS.png",
+          "alt": "HBS icon"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "/Media/Mongo.png",
+          "alt": "Mongo icon"
+        }
+        
       ],
       "projects": {
         "title": "Projektit",
@@ -114,6 +125,18 @@
             "title": "Automaatiorobotiikka",
             "description": "Kouluprojekti, jossa käytimme UiPathia, Robot Frameworkia ja Pythonia automatisoimaan tiedon haku PDF-laskuilta.",
             "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka"
+          },
+          {
+            "title" :"AI-based Invoice assistant",
+            "description": "Tekoäly pohjainen laskujen prosessointi työkalu. Tekoäly vastaa kysymyksiin laskuihin liittyen ja tekee JSON ja/tai PDF yhteenvedon laskusta.",
+            "Demo": "https://www.youtube.com/watch?v=Cb2bTOat2U0",
+            "repository": "https://github.com/Tupolaa/BIP-AI-model"
+          },
+          {
+            "title": "Elokuvien arviointisivusto",
+            "description": "sivusto, jossa voit kirjoittaa ja lukea arvosteluita elokuvista. Sivustolla on myös mahdollisuus luoda oma käyttäjätunnus ja kirjautua sisään. Sivuston tehtiin koulutyönä, mutta kehitystä jatketaan myös tulevaisuudessa.",
+            "Demo": "https://atom-sky-rosemary.glitch.me/",
+            "repository": "https://github.com/joni23008/Backend-Web-Development"
           }
         ]
       },
@@ -215,6 +238,16 @@
           "name": "REACT",
           "icon": "/Media/REACT.png",
           "alt": "REACT icon"
+        },
+        {
+          "name": "Handlebars",
+          "icon": "/Media/HBS.png",
+          "alt": "HBS icon"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "/Media/Mongo.png",
+          "alt": "Mongo icon"
         }
       ],
       "projects": {
@@ -238,6 +271,18 @@
             "title": "Automation Robotics",
             "description": "A school project using UiPath, Robot Framework and Python to automate data extraction from PDF invoices into a database.",
             "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka"
+          },
+          {
+            "title": "AI-based Invoice Assistant",
+            "description": "An AI-based tool for processing invoices. The AI answers questions related to the invoice and generates a JSON and/or PDF summary of the invoice.",
+            "Demo": "https://www.youtube.com/watch?v=Cb2bTOat2U0",
+            "repository": "https://github.com/Tupolaa/BIP-AI-model"
+            },
+            {
+            "title": "Movie Review Website",
+            "description": "A website where users can write and read reviews about movies. The site also allows users to create their own accounts and log in. This project was done as a school assignment, but development will continue in the future.",
+            "Demo": "https://atom-sky-rosemary.glitch.me/",
+            "repository": "https://github.com/Tupolaa/Movie-Review-Website"
           }
         ]
       },

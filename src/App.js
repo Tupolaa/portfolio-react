@@ -101,25 +101,35 @@ function Background({ background, skills }) {
 function Projects({ projects }) {
   return (
     <section className="Backround" id="projects">
-      <h2>{projects.title}</h2>
-      <div className="projects-container">
-        {projects.items.map((proj, index) => (
-          <div className="project-box" key={index}>
-            <h3>{proj.title}</h3>
-            <p>{proj.description}</p>
-            {proj.repository && (
-              <a
-                href={proj.repository}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Repository
-              </a>
-            )}
-          </div>
-        ))}
+  <h2>{projects.title}</h2>
+  <div className="projects-container">
+    {projects.items.map((proj, index) => (
+      <div className="project-box" key={index}>
+        <h3>{proj.title}</h3>
+        <p>{proj.description}</p>
+        {proj.repository && (
+          <a
+            href={proj.repository}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Repository
+          </a>
+        )}
+        {proj.repository && proj.Demo && <br />}
+        {proj.Demo && (
+          <a
+            href={proj.Demo}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Demo
+          </a>
+        )}
       </div>
-    </section>
+    ))}
+  </div>
+</section>
   );
 }
 
