@@ -11,13 +11,14 @@
         "imageAlt": "Kuva",
         "imageTitle": "OmaKuva",
         "title": "Kuka on Teemu?",
-        "content": "Olen reilu parikymppinen ohjelmistokehittäjän alku Hämeenlinnasta. Minulla on iso kiinnostus koodaamiseen ja ohjelmistokehitykseen. Opiskelen toista vuotta tietojenkäsittelyä HAMK:issa. Olen oma-aloitteinen ja halukas kehittämään toimivia ja luotettavia ratkaisuja ohjelmistokehityksessä sekä erityisesti kiinnostunut ohjelmistotestauksesta ja back-end -haasteista."
+        "content": "Olen nuori ohjelmistokehittäjän alku Hämeenlinnasta, jolla ei huumori tai kysymykset lopu! Opiskelen kolmatta vuotta tietojenkäsittelyä HAMK:issa.\n\n Hallitsen ohjelmoinnin perusteet ja olen innokas kehittämään luotettavia, toimivia ratkaisuja ohjelmistokehityksen parissa. Kiinnostukseni kohdistuvat erityisesti backend-kehitykseen, virheiden ja bugien korjaamiseen sekä debuggaamiseen, sillä niissä pääsen käyttämään ongelmanratkaisukykyäni ja uteliaisuuttani parhaalla mahdollisella tavalla.",
+        "quote": "\"Parhaiten opin tekemällä ja pienellä ripauksella huumoria.\""
       },
       "background": {
-        "infoTitle": "Taustatietoa",
+        "infoTitle": "Taustatietoa - Miksi IT-ala?",
         "infoContent": "Kiinnostuin tietokoneista jo 9. luokalla, kun osallistuin TVT-kurssille. Kurssilla esiteltiin HTML:n perusasioita ja verkkosivujen toimintaa. Opiskelin ammattikoulussa datanomiksi, tällöin teimme nettisivuja, ryhmätöitä, opettelimme Unreal Engineä ja kasasimme tietokoneita. Rakensin ensimmäisen tietokoneeni isäni avustuksella ollessani 14-vuotias.",
         "educationTitle": "Koulutus",
-        "educationContent": "Syksystä 2023 asti olen opiskellut Hämeen ammattikoulussa tietojenkäsittelyä. Suuntaudun ohjelmointiin, web-kehitykseen ja erityisesti back-end-teknologioihin, oppien samalla monia hyödyllisiä taitoja kuten version ja projektien hallintaa (git) ja Scrum.",
+        "educationContent": "Olen opiskellut tietojenkäsittelyä HAMKissa syksystä 2023 lähtien ja löytänyt intohimoni ohjelmoinnista ja web-kehityksestä erityisesti backend-maailmasta. Opinnoissa olen saanut hyvän pohjan ohjelmistokehityksen ajatteluun, ongelmanratkaisuun ja siihen, miten pienistä palasista syntyy (melkein aina) toimiva kokonaisuus.",
         "skillsTitle": "Taitoni",
         "skillsContent": "Olen oppinut monia erilaisia taitoja ja ohjelmointikieliä opintojeni ohella. Tässä muutamia:"
       },
@@ -151,8 +152,9 @@
           },
           {
             "title": "Elokuvien arviointisivusto",
-            "description": "sivusto, jossa voit kirjoittaa ja lukea arvosteluita elokuvista. Sivustolla on myös mahdollisuus luoda oma käyttäjätunnus ja kirjautua sisään. Sivuston tehtiin koulutyönä, mutta kehitystä jatketaan myös tulevaisuudessa.",
-            "Demo": "https://atom-sky-rosemary.glitch.me/",
+            "description": "sivusto, jossa voit kirjoittaa ja lukea arvosteluita elokuvista.  Sivuston tehtiin koulutyönä ja kehitystä ollaan jatkettu mobiili sovelluksen muodossa React nativea hyödyntäen(koulutyö).",
+            "Demo": "https://moviereview-472307.lm.r.appspot.com/",
+            "Demo2":"https://github.com/Tupolaa/Mobile_project",
             "repository": "https://github.com/joni23008/Backend-Web-Development"
           }
         ]
@@ -175,13 +177,14 @@
         "imageAlt": "Profile Picture",
         "imageTitle": "Profile Picture",
         "title": "Who is Teemu?",
-        "content": "I'm a software developer in my early twenties from Hämeenlinna, Finland, with a strong passion for coding and software development. I'm currently in my second year of studying Business Information Technology at Häme University of Applied Sciences (HAMK). I'm proactive and eager to create functional and reliable software solutions, with a particular interest in software testing and back-end development and the challenges they bring."
+        "content": "I’m an aspiring young software developer from Hämeenlinna, full of humor and curiosity! Currently studying my third year of Business Information Technology at HAMK University of Applied Sciences. \n\nI have a solid foundation of programming fundamentals and a strong enthusiasm for developing reliable and functional software solutions. My interests lie especially in backend development, bug fixing, and debugging, as they allow me to make the most of my problem-solving skills and curiosity.",
+        "quote": "\"I learn best through hands-on experience and a little bit of humor along the way.\""
       },
       "background": {
-        "infoTitle": "About Me",
+        "infoTitle": "Background - Why IT?",
         "infoContent": "My interest in computers began back in 9th grade when I took an ICT course that introduced the basics of HTML and how websites work. I later studied to become an IT Support Specialist (Datanomi) in vocational school, where we built websites, worked on group projects, learned the basics of Unreal Engine, and assembled computers. I built my first PC at the age of 14 with help from my father — and I’ve been passionate about technology ever since.",
         "educationTitle": "Education",
-        "educationContent": "Since autumn 2023, I've been studying Business Information Technology at HAMK. I’ve focused on programming, web development, and especially back-end technologies. Along the way, I’ve also gained practical experience with tools and practices such as version control and project management (Git) and Scrum.",
+        "educationContent": "I’ve been studying Business Information Technology at HAMK since autumn 2023 and have discovered my passion for programming and web development especially in the backend world. My studies have given me a solid foundation in software development, problem-solving, and understanding how small pieces come together to create (hopefully) a working app.",
         "skillsTitle": "My Skills",
         "skillsContent": "Through my studies and personal projects, I’ve developed skills in a variety of tools and programming languages. Here are some of the key ones:"
       },
@@ -312,8 +315,9 @@
             },
             {
             "title": "Movie Review Website",
-            "description": "A website where users can write and read reviews about movies. The site also allows users to create their own accounts and log in. This project was done as a school assignment, but development will continue in the future.",
-            "Demo": "https://atom-sky-rosemary.glitch.me/",
+            "description": "A website where users can write and read reviews about movies. The site also allows users to create their own accounts and log in. This project was done as a school assignment and we keep developing it as a mobile app using React Native (school project). ",
+            "Demo": "https://moviereview-472307.lm.r.appspot.com/",
+            "Demo2":"https://github.com/Tupolaa/Mobile_project",
             "repository": "https://github.com/joni23008/Backend-Web-Development"
           }
         ]

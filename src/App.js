@@ -70,7 +70,10 @@ function AboutMe({ about }) {
       <div className="text-container">
         <h2>{about.title}</h2>
         <p>{about.content}</p>
+        <br></br>
+        <p style={{ fontFamily: "cursive" }}>{about.quote}</p>
       </div>
+      
     </section>
   );
 }
@@ -117,6 +120,16 @@ function Projects({ projects }) {
           </a>
         )}
         {proj.repository && proj.Demo && <br />}
+        {proj.Demo2 && (
+          <a
+            href={proj.Demo2}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            React Native Repository
+            
+          </a>
+        )}
         {proj.Demo && (
           <a
             href={proj.Demo}
@@ -126,6 +139,7 @@ function Projects({ projects }) {
             Demo
           </a>
         )}
+        
       </div>
     ))}
   </div>
