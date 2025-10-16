@@ -51,14 +51,15 @@ header {
   transform: translateX(-50%);
   width: 100%;
   max-width: 1000px;
-  height: 70px;             /* Defined height so we can offset .main-container */
+  height: 70px;             
   background-color: #005c7e;
-  /* Center all header content */
+  
   display: flex;
   align-items: center;
-  padding: 0 20px;          /* Horizontal padding only */
+  padding: 0 20px;          
   z-index: 1000;
-  border-bottom: 2px solid #fff;
+  box-shadow: 0  0 8px 4px rgba(2, 125, 146, 0.705);
+  border: 3px solid #01abe9;
 }
 header nav {
   flex: 1;
@@ -70,7 +71,7 @@ header nav ul {
   list-style: none;
   display: flex;
   align-items: center;
-  justify-content: center;  /* Center the nav items */
+  justify-content: center;  
 }
 
 header nav ul li {
@@ -127,6 +128,7 @@ section {
   max-width: 800px;
   margin: 0 auto;
   white-space: pre-line;
+  
 }
 
 .AboutMe img {
@@ -154,6 +156,7 @@ section {
   font-size: 20px;
   border-radius: 10px;
   max-width: 1000px;
+  box-shadow: 0 0 15px 4px rgb(90, 102, 207);
 }
 
 /* =======================
@@ -164,8 +167,8 @@ section {
   padding: 20px;
   border-radius: 10px;
   margin-top: 20px;
-  box-shadow: 0 0 15px 4px rgba(38, 12, 185, 0.6);
-  border: 2px solid #0eb5f1;
+  
+  border: 2px solid #007fadc4;
 }
 
 .TaidotLista {
