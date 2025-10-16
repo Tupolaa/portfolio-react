@@ -118,6 +118,11 @@
           "name": "MongoDB",
           "icon": "/Media/Mongo.png",
           "alt": "Mongo icon"
+        },
+        {
+          "name": "Astro",
+          "icon": "/Media/Astro.png",
+          "alt": "Astro icon"
         }
     
         
@@ -127,35 +132,163 @@
         "items": [
           {
             "title": "Oma portfolio",
-            "description": "Dynaaminen verkkosivu itseni esittämiseksi, luotu käyttäen HTML, CSS, JS, REACT.",
-            "repository": "https://github.com/Tupolaa/portfolio-react"
+            "description": "Dynaaminen verkkosivu itseni esittämiseksi.",
+            "repository": "https://github.com/Tupolaa/portfolio-react",
+            "Tech": [
+               {
+                "icon": "/Media/JS.png",
+                "alt": "JS icon"
+               },
+                {
+                  "icon": "/Media/REACT.png",
+                  "alt": "REACT icon"
+                },
+                {
+                  "icon": "/Media/CSS.png",
+                  "alt": "CSS icon"
+                },
+                {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                }
+          
+            ]
           },
           {
             "title": "Ohjemistotestaus",
             "description": "Kurssin lopputyö, jonka aikana hyödynsimme Robot Frameworkia ohjelmistotestauksessa. Teimme testejä nettisivulle ja opettelimme ohjelmistotestausta.",
-            "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti"
+            "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti",
+            "Tech": [
+               {
+                "icon": "/Media/RF.png",
+                "alt": "Robot Framework icon"
+               },
+               {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                }
+          
+            ]
           },
           {
             "title": "LejosEV3",
-            "description": "Kouluprojekti, jossa ohjelmoimme LejosEV3 lego robotin seuraamaan väriviivaa ja väistämään esteitä. Käytimme Javaa, REST, HTML:ää ja CSS:ää."
+            "description": "Kouluprojekti, jossa ohjelmoimme LejosEV3 lego robotin seuraamaan väriviivaa ja väistämään esteitä.",
+            "Tech": [
+               {
+                "icon": "/Media/REST.png",
+                "alt": "REST API icon"
+               },
+                {
+                    "icon": "/Media/Java.png",
+                    "alt": "Java icon"
+                  },
+                  {
+                    "icon": "/Media/HTML.png",
+                    "alt": "HTML icon"
+                  },
+                  {
+                    "icon": "/Media/CSS.png",
+                    "alt": "CSS icon"
+                  }
+          
+            ]
           },
           {
             "title": "Automaatiorobotiikka",
             "description": "Kouluprojekti, jossa käytimme UiPathia, Robot Frameworkia ja Pythonia automatisoimaan tiedon haku PDF-laskuilta.",
-            "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka"
+            "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka",
+            "Tech": [
+              
+               {
+                  "icon": "/Media/Python.png",
+                  "alt": "Python icon"
+                },
+                {
+                "icon": "/Media/RF.png",
+                "alt": "Robot Framework icon"
+               },
+                {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                }
+          
+            ]
           },
           {
             "title" :"AI-based Invoice assistant",
             "description": "Tekoäly pohjainen laskujen prosessointi työkalu. Tekoäly vastaa kysymyksiin laskuihin liittyen ja tekee JSON ja/tai PDF yhteenvedon laskusta.",
             "Demo": "https://www.youtube.com/watch?v=Cb2bTOat2U0",
-            "repository": "https://github.com/Tupolaa/BIP-AI-model"
+            "text": "Demo video",
+            "repository": "https://github.com/Tupolaa/BIP-AI-model",
+            "Tech": [
+               {
+                "icon": "/Media/Python.png",
+                "alt": "Python icon"
+               },
+               
+                {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                },
+                {
+                  "icon": "/Media/Astro.png",
+                  "alt": "Astro icon"
+                }
+          
+            ],
+            "ExtraLinks": [
+               {
+                "link": "https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct",
+                 "text": "LLM model"
+               }
+            ]
           },
           {
             "title": "Elokuvien arviointisivusto",
             "description": "sivusto, jossa voit kirjoittaa ja lukea arvosteluita elokuvista.  Sivuston tehtiin koulutyönä ja kehitystä ollaan jatkettu mobiili sovelluksen muodossa React nativea hyödyntäen(koulutyö).",
             "Demo": "https://moviereview-472307.lm.r.appspot.com/",
-            "Demo2":"https://github.com/Tupolaa/Mobile_project",
-            "repository": "https://github.com/joni23008/Backend-Web-Development"
+            "repository": "https://github.com/joni23008/Backend-Web-Development",
+            "Tech": [
+               {
+                "icon": "/Media/JS.png",
+                "alt": "JS icon"
+               },
+                {
+                  "icon": "/Media/REACT.png",
+                  "alt": "REACT icon"
+                },
+                {
+                  "icon": "/Media/Mongo.png",
+                  "alt": "Mongo icon"
+                },
+                {
+                  "icon": "/Media/HBS.png",
+                  "alt": "HBS icon"
+                },
+                {
+                  "icon": "/Media/CSS.png",
+                  "alt": "CSS icon"
+                },
+                {
+                  "icon": "/Media/REST.png",
+                  "alt": "REST API icon"
+                },
+                {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                }
+          
+            ],
+            "ExtraLinks": [
+               {
+                "link": "https://www.themoviedb.org/",
+                 "text": "themoviedb - API"
+               },
+              {
+                "link": "https://github.com/Tupolaa/Mobile_project",
+                "text": "React native Repository"
+               }
+            ]
           }
         ]
       },
@@ -195,7 +328,7 @@
           "alt": "Python icon"
         },
         {
-          "name": "Scrum Basics",
+          "name": "Scrum",
           "icon": "/Media/Scrum.png",
           "alt": "Scrum icon"
         },
@@ -291,34 +424,162 @@
           {
             "title": "My Portfolio",
             "description": "A dynamic website to showcase myself, built with HTML, CSS, JS, and REACT.",
-            "repository": "https://github.com/Tupolaa/portfolio-react"
+            "repository": "https://github.com/Tupolaa/portfolio-react",
+            "Tech": [
+               {
+                "icon": "/Media/JS.png",
+                "alt": "JS icon"
+               },
+                {
+                  "icon": "/Media/REACT.png",
+                  "alt": "REACT icon"
+                },
+                {
+                  "icon": "/Media/CSS.png",
+                  "alt": "CSS icon"
+                },
+                {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                }
+          
+            ]
           },
           {
             "title": "Software Testing",
             "description": "Final course project during which we utilized Robot Framewor for software testing. We developed tests for a website and learned about software testing.",
-            "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti"
+            "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti",
+            "Tech": [
+               {
+                "icon": "/Media/RF.png",
+                "alt": "Robot Framework icon"
+               },
+               {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                }
+          
+            ]
           },
           {
             "title": "LejosEV3",
-            "description": "A school project where we programmed a LejosEV3 Lego robot to follow a colored line and avoid obstacles. We used Java, REST, HTML, and CSS for the project."
+            "description": "A school project where we programmed a LejosEV3 Lego robot to follow a colored line and avoid obstacles. We used Java, REST, HTML, and CSS for the project.",
+            "Tech": [
+               {
+                "icon": "/Media/REST.png",
+                "alt": "REST API icon"
+               },
+                {
+                    "icon": "/Media/Java.png",
+                    "alt": "Java icon"
+                  },
+                  {
+                    "icon": "/Media/HTML.png",
+                    "alt": "HTML icon"
+                  },
+                  {
+                    "icon": "/Media/CSS.png",
+                    "alt": "CSS icon"
+                  }
+          
+            ]
           },
           {
             "title": "Automation Robotics",
             "description": "A school project using UiPath, Robot Framework and Python to automate data extraction from PDF invoices into a database.",
-            "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka"
+            "repository": "https://github.com/Tupolaa/Ohjelmistorobotiikka",
+            "Tech": [
+              
+               {
+                  "icon": "/Media/Python.png",
+                  "alt": "Python icon"
+                },
+                {
+                "icon": "/Media/RF.png",
+                "alt": "Robot Framework icon"
+               },
+                {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                }
+          
+            ]
           },
           {
             "title": "AI-based Invoice Assistant",
             "description": "An AI-based tool for processing invoices. The AI answers questions related to the invoice and generates a JSON and/or PDF summary of the invoice.",
             "Demo": "https://www.youtube.com/watch?v=Cb2bTOat2U0",
-            "repository": "https://github.com/Tupolaa/BIP-AI-model"
+            "repository": "https://github.com/Tupolaa/BIP-AI-model",
+"Tech": [
+               {
+                "icon": "/Media/Python.png",
+                "alt": "Python icon"
+               },
+               
+                {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                },
+                {
+                  "icon": "/Media/Astro.png",
+                  "alt": "Astro icon"
+                }
+          
+            ],
+            "ExtraLinks": [
+               {
+                "link": "https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct",
+                 "text": "LLM model"
+               }
+            ]
             },
             {
             "title": "Movie Review Website",
             "description": "A website where users can write and read reviews about movies. The site also allows users to create their own accounts and log in. This project was done as a school assignment and we keep developing it as a mobile app using React Native (school project). ",
             "Demo": "https://moviereview-472307.lm.r.appspot.com/",
             "Demo2":"https://github.com/Tupolaa/Mobile_project",
-            "repository": "https://github.com/joni23008/Backend-Web-Development"
+            "repository": "https://github.com/joni23008/Backend-Web-Development",
+"Tech": [
+               {
+                "icon": "/Media/JS.png",
+                "alt": "JS icon"
+               },
+                {
+                  "icon": "/Media/REACT.png",
+                  "alt": "REACT icon"
+                },
+                {
+                  "icon": "/Media/Mongo.png",
+                  "alt": "Mongo icon"
+                },
+                {
+                  "icon": "/Media/HBS.png",
+                  "alt": "HBS icon"
+                },
+                {
+                  "icon": "/Media/CSS.png",
+                  "alt": "CSS icon"
+                },
+                {
+                  "icon": "/Media/REST.png",
+                  "alt": "REST API icon"
+                },
+                {
+                  "icon": "/Media/GIT.png",
+                  "alt": "GIT icon"
+                }
+          
+            ],
+            "ExtraLinks": [
+               {
+                "link": "https://www.themoviedb.org/",
+                 "text": "themoviedb - API"
+               },
+              {
+                "link": "https://github.com/Tupolaa/Mobile_project",
+                "text": "React native Repository"
+               }
+            ]
           }
         ]
       },

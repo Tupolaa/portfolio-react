@@ -101,7 +101,7 @@ function Background({ background, skills }) {
   );
 }
 
-function Projects({ projects }) {
+function Projects({ projects, skills }) {
   return (
     <section className="Backround" id="projects">
   <h2>{projects.title}</h2>
@@ -120,16 +120,18 @@ function Projects({ projects }) {
           </a>
         )}
         {proj.repository && proj.Demo && <br />}
-        {proj.Demo2 && (
-          <a
-            href={proj.Demo2}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React Native Repository
-            
-          </a>
-        )}
+         {Array.isArray(proj.ExtraLinks) &&
+              proj.ExtraLinks.map((x, i) => (
+                <a
+                  key={i}
+                  href={x.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ marginRight: 8 }}
+                >
+                  {x.text}
+                </a>
+              ))}
         {proj.Demo && (
           <a
             href={proj.Demo}
@@ -139,6 +141,23 @@ function Projects({ projects }) {
             Demo
           </a>
         )}
+  
+        {Array.isArray(proj.Tech) && (
+  <div className="tech-icons">
+    {proj.Tech.map((x, i) => (
+      <a
+        key={i}
+        href={x.link}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="skill-item"
+      >
+        <img src={x.icon} alt={x.alt || x.name} className="skill-icon" />
+      </a>
+    ))}
+  </div>
+)}
+
         
       </div>
     ))}
