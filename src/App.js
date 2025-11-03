@@ -152,7 +152,7 @@ function Projects({ projects, skills }) {
         rel="noopener noreferrer"
         className="skill-item"
       >
-        <img src={x.icon} alt={x.alt || x.name} className="skill-icon" />
+        <img src={x.icon} alt={x.alt || x.name} className="skill-icons" />
       </a>
     ))}
   </div>

@@ -11,7 +11,7 @@
         "imageAlt": "Kuva",
         "imageTitle": "OmaKuva",
         "title": "Kuka on Teemu?",
-        "content": "Olen nuori ohjelmistokehittäjän alku Hämeenlinnasta, jolla ei huumori tai kysymykset lopu! Opiskelen kolmatta vuotta tietojenkäsittelyä HAMK:issa.\n\n Hallitsen ohjelmoinnin perusteet ja olen innokas kehittämään luotettavia, toimivia ratkaisuja ohjelmistokehityksen parissa. Kiinnostukseni kohdistuvat erityisesti backend-kehitykseen, virheiden ja bugien korjaamiseen sekä debuggaamiseen, sillä niissä pääsen käyttämään ongelmanratkaisukykyäni ja uteliaisuuttani parhaalla mahdollisella tavalla.",
+        "content": "Olen nuori ohjelmistokehittäjän alku Hämeenlinnasta, jolla ei huumori tai kysymykset lopu! Opiskelen kolmatta vuotta tietojenkäsittelyä HAMK:issa.\n\n Hallitsen ohjelmoinnin perusteet ja olen innokas kehittämään luotettavia, toimivia ratkaisuja ohjelmistokehityksen parissa. Kiinnostukseni kohdistuvat erityisesti backend-kehitykseen, virheiden ja bugien korjaamiseen sekä debuggaamiseen, sillä niissä pääsen käyttämään ongelmanratkaisukykyäni ja uteliaisuuttani parhaalla mahdollisella tavalla, mutta minulta löytyy myös osaamista ja kiinnostusta muilta osa-alueilta.",
         "quote": "\"Parhaiten opin tekemällä ja pienellä ripauksella huumoria.\""
       },
       "background": {
@@ -105,7 +105,7 @@
           "alt": "CSS icon"
         },
         {
-            "name": "REACT",
+            "name": "React + React Native",
             "icon": "/Media/REACT.png",
             "alt": "REACT icon"
         },
@@ -123,7 +123,48 @@
           "name": "Astro",
           "icon": "/Media/Astro.png",
           "alt": "Astro icon"
+        },
+        {
+          "name": "Node.js",
+          "icon": "/Media/node.png",
+          "alt": "Node.js icon"
+        },
+        {
+          "name": "Express.js",
+          "icon": "/Media/expressjs.png",
+          "alt": "Express.js icon"
+        },
+        {
+          "name": "PHP",
+          "icon": "/Media/php.png",
+          "alt": "PHP icon"
+        },
+        {
+          "name": "UiPath",
+          "icon": "/Media/uipath.png",
+          "alt": "UiPath icon"
+        },
+        {
+          "name": "Android Studio",
+          "icon": "/Media/Androidstudio.png",
+          "alt": "Android Studio icon"
+        },
+        {
+          "name": "Google Cloud",
+          "icon": "/Media/GoogleCloud.png",
+          "alt": "Google Cloud icon"
+        },
+        {
+          "name": "Hugging Face",
+          "icon": "/Media/HF.png",
+          "alt": "Hugging Face icon"
+        },
+        {
+          "name": "Postman",
+          "icon": "/Media/postman.png",
+          "alt": "Postman icon"
         }
+        
     
         
       ],
@@ -210,6 +251,10 @@
                 {
                   "icon": "/Media/GIT.png",
                   "alt": "GIT icon"
+                },
+                {
+                  "icon": "/Media/uipath.png",
+                  "alt": "UiPath icon"
                 }
           
             ]
@@ -233,6 +278,10 @@
                 {
                   "icon": "/Media/Astro.png",
                   "alt": "Astro icon"
+                },
+                {
+                  "icon": "/Media/HF.png",
+                  "alt": "Hugging Face icon"
                 }
           
             ],
@@ -276,6 +325,22 @@
                 {
                   "icon": "/Media/GIT.png",
                   "alt": "GIT icon"
+                },
+                {
+                  "icon": "/Media/expressjs.png",
+                  "alt": "Express.js icon"
+                },
+                {
+                  "icon": "/Media/node.png",
+                  "alt": "Node.js icon"
+                },
+                {
+                  "icon": "/Media/Androidstudio.png",
+                  "alt": "Android Studio icon"
+                },
+                {
+                  "icon": "/Media/GoogleCloud.png",
+                  "alt": "Google Cloud icon"
                 }
           
             ],
@@ -310,7 +375,7 @@
         "imageAlt": "Profile Picture",
         "imageTitle": "Profile Picture",
         "title": "Who is Teemu?",
-        "content": "I’m an aspiring young software developer from Hämeenlinna, full of humor and curiosity! Currently studying my third year of Business Information Technology at HAMK University of Applied Sciences. \n\nI have a solid foundation of programming fundamentals and a strong enthusiasm for developing reliable and functional software solutions. My interests lie especially in backend development, bug fixing, and debugging, as they allow me to make the most of my problem-solving skills and curiosity.",
+        "content": "I’m an aspiring young software developer from Hämeenlinna, full of humor and curiosity! Currently studying my third year of Business Information Technology at HAMK University of Applied Sciences. \n\nI have a solid foundation of programming fundamentals and a strong enthusiasm for developing reliable and functional software solutions. My interests lie especially in backend development, bug fixing, and debugging, as they allow me to make the most of my problem-solving skills and curiosity. However, I also possess skills and interests in other areas of software development.",
         "quote": "\"I learn best through hands-on experience and a little bit of humor along the way.\""
       },
       "background": {
@@ -403,7 +468,7 @@
           "alt": "CSS icon"
         },
         {
-          "name": "REACT",
+          "name": "React + React Native",
           "icon": "/Media/REACT.png",
           "alt": "REACT icon"
         },
@@ -421,7 +486,47 @@
           "name": "Astro",
           "icon": "/Media/Astro.png",
           "alt": "Astro icon"
+        },
+        {
+          "name": "Node.js",
+          "icon": "/Media/node.png",
+          "alt": "Node.js icon"
+        },
+        {
+          "name": "Express.js",
+          "icon": "/Media/expressjs.png",
+          "alt": "Express.js icon"
+        },
+        {
+          "name": "PHP",
+          "icon": "/Media/php.png",
+          "alt": "PHP icon"
+        },
+        {
+          "name": "UiPath",
+          "icon": "/Media/uipath.png",
+          "alt": "UiPath icon"
+        },{
+          "name": "Android Studio",
+          "icon": "/Media/Androidstudio.png",
+          "alt": "Android Studio icon"
+        },
+        {
+          "name": "Google Cloud",
+          "icon": "/Media/GoogleCloud.png",
+          "alt": "Google Cloud icon"
+        },
+        {
+          "name": "Hugging Face",
+          "icon": "/Media/HF.png",
+          "alt": "Hugging Face icon"
+        },
+        {
+          "name": "Postman",
+          "icon": "/Media/postman.png",
+          "alt": "Postman icon"
         }
+        
       ],
       "projects": {
         "title": "Projects",
@@ -452,7 +557,7 @@
           },
           {
             "title": "Software Testing",
-            "description": "Final course project during which we utilized Robot Framewor for software testing. We developed tests for a website and learned about software testing.",
+            "description": "Final course project during which we utilized Robot Framework for software testing. We developed tests for a website and learned about software testing.",
             "repository": "https://github.com/Tupolaa/Ohjelmistotestaus_projekti",
             "Tech": [
                {
@@ -506,6 +611,10 @@
                 {
                   "icon": "/Media/GIT.png",
                   "alt": "GIT icon"
+                },
+                {
+                  "icon": "/Media/uipath.png",
+                  "alt": "UiPath icon"
                 }
           
             ]
@@ -528,6 +637,10 @@
                 {
                   "icon": "/Media/Astro.png",
                   "alt": "Astro icon"
+                },
+                {
+                  "icon": "/Media/HF.png",
+                  "alt": "Hugging Face icon"
                 }
           
             ],
@@ -572,6 +685,22 @@
                 {
                   "icon": "/Media/GIT.png",
                   "alt": "GIT icon"
+                },
+                {
+                  "icon": "/Media/expressjs.png",
+                  "alt": "Express.js icon"
+                },
+                {
+                  "icon": "/Media/node.png",
+                  "alt": "Node.js icon"
+                },
+                {
+                  "icon": "/Media/Androidstudio.png",
+                  "alt": "Android Studio icon"
+                },
+                {
+                  "icon": "/Media/GoogleCloud.png",
+                  "alt": "Google Cloud icon"
                 }
           
             ],
