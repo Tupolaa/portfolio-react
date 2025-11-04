@@ -11,7 +11,7 @@
         "imageAlt": "Kuva",
         "imageTitle": "OmaKuva",
         "title": "Kuka on Teemu?",
-        "content": "Olen nuori ohjelmistokehittäjän alku Hämeenlinnasta, jolla ei huumori tai kysymykset lopu! Opiskelen kolmatta vuotta tietojenkäsittelyä HAMK:issa.\n\n Hallitsen ohjelmoinnin perusteet ja olen innokas kehittämään luotettavia, toimivia ratkaisuja ohjelmistokehityksen parissa. Kiinnostukseni kohdistuvat erityisesti backend-kehitykseen, virheiden ja bugien korjaamiseen sekä debuggaamiseen, sillä niissä pääsen käyttämään ongelmanratkaisukykyäni ja uteliaisuuttani parhaalla mahdollisella tavalla, mutta minulta löytyy myös osaamista ja kiinnostusta muilta osa-alueilta.",
+        "content": "Olen nuori ohjelmistokehittäjän alku Hämeenlinnasta, jolla ei huumori tai kysymykset lopu! Opiskelen kolmatta vuotta tietojenkäsittelyä HAMK:issa.\n\n Hallitsen ohjelmoinnin perusteet ja olen innokas kehittämään luotettavia, toimivia ratkaisuja ohjelmistokehityksen parissa. Kiinnostukseni kohdistuvat erityisesti backend- ja web-kehitykseen, virheiden ja bugien korjaamiseen sekä debuggaamiseen, sillä niissä pääsen käyttämään ongelmanratkaisukykyäni ja uteliaisuuttani parhaalla mahdollisella tavalla, mutta minulta löytyy myös osaamista ja kiinnostusta muilta osa-alueilta.",
         "quote": "\"Parhaiten opin tekemällä ja pienellä ripauksella huumoria.\""
       },
       "background": {
@@ -375,7 +375,7 @@
         "imageAlt": "Profile Picture",
         "imageTitle": "Profile Picture",
         "title": "Who is Teemu?",
-        "content": "I’m an aspiring young software developer from Hämeenlinna, full of humor and curiosity! Currently studying my third year of Business Information Technology at HAMK University of Applied Sciences. \n\nI have a solid foundation of programming fundamentals and a strong enthusiasm for developing reliable and functional software solutions. My interests lie especially in backend development, bug fixing, and debugging, as they allow me to make the most of my problem-solving skills and curiosity. However, I also possess skills and interests in other areas of software development.",
+        "content": "I’m an aspiring young software developer from Hämeenlinna, full of humor and curiosity! Currently studying my third year of Business Information Technology at HAMK University of Applied Sciences. \n\nI have a solid foundation of programming fundamentals and a strong enthusiasm for developing reliable and functional software solutions. My interests lie especially in backend and web development, bug fixing, and debugging, as they allow me to make the most of my problem-solving skills and curiosity. However, I also possess skills and interests in other areas of software development.",
         "quote": "\"I learn best through hands-on experience and a little bit of humor along the way.\""
       },
       "background": {
