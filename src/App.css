@@ -49,18 +49,24 @@ header {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  width: 100%;
-  max-width: 1000px;
+  width: 110%;
+  max-width: 1300px;
   height: 70px;             
   background-color: #005c7e;
-  
   display: flex;
   align-items: center;
+  justify-content: space-between; /* Add this */
   padding: 0 20px;          
   z-index: 1000;
   box-shadow: 0  0 8px 4px rgba(2, 125, 146, 0.705);
   border: 3px solid #01abe9;
 }
+
+header::before {
+  content: '';
+  min-width: 150px; /* Same width as .lang-switch */
+}
+
 header nav {
   flex: 1;
   display: flex;
@@ -88,10 +94,11 @@ header nav ul li a:hover {
   text-decoration: underline;
 }
 
-/* Remove margin-left: auto from .lang-switch to keep it centered */
+
 .lang-switch {
+  display: flex;
   justify-content: flex-end;
-  margin-left: 0;
+  min-width: 150px;
 }
 
 .lang-btn {
