@@ -25,9 +25,24 @@ function App() {
 }
 
 function Header({ links, setLanguage }) {
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  const closeMenu = () => setMenuOpen(false);
+
   return (
     <header>
-      <nav>
+      <button
+        className={`burger ${menuOpen ? "open" : ""}`}
+        onClick={() => setMenuOpen((s) => !s)}
+        aria-label="Toggle navigation"
+        aria-expanded={menuOpen}
+      >
+        <span />
+        <span />
+        <span />
+      </button>
+
+      <nav className={menuOpen ? "open" : ""} onClick={closeMenu}>
         <ul>
           <li>
             <a href={links.github} target="_blank" rel="noopener noreferrer">
@@ -46,11 +61,24 @@ function Header({ links, setLanguage }) {
           </li>
         </ul>
       </nav>
+
       <div className="lang-switch">
-        <button onClick={() => setLanguage("en")} className="lang-btn">
+        <button
+          onClick={() => {
+            setLanguage("en");
+            closeMenu();
+          }}
+          className="lang-btn"
+        >
           ENG
         </button>
-        <button onClick={() => setLanguage("fi")} className="lang-btn">
+        <button
+          onClick={() => {
+            setLanguage("fi");
+            closeMenu();
+          }}
+          className="lang-btn"
+        >
           FIN
         </button>
       </div>
