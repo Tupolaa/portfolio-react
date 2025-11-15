@@ -16,6 +16,7 @@ function App() {
       <FloatingBackground />
       
       <Header links={content.links} setLanguage={setLanguage} />
+      <INFO />
       <AboutMe about={content.about} />
       <Background background={content.background} skills={content.skills} />
       <Projects projects={content.projects} />
@@ -103,7 +104,20 @@ function AboutMe({ about }) {
       </div>
       
     </section>
+    
   );
+}
+
+function INFO() {
+  return (
+   <section style={{ textAlign: "center", marginTop: "20px", backgroundColor: "#e90000ff", padding: "10px", borderRadius: "8px" }}>
+      <h2 style={{ color: "white", fontSize: "40px" }}>INFO - THIS IS OLD VERSION</h2>
+      <p>NEW PORTFOLIO IS OUT HERE</p>
+      <p><a href="https://teemutupolaportfolio.vercel.app/" target="_blank" rel="noopener noreferrer" style={{ color: "#000000ff", fontFamily: "cursive" }}>NEW PORTFOLIO</a></p>
+
+   </section>
+    
+    );
 }
 
 function Background({ background, skills }) {
